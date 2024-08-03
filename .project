@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Portfolio-Website</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.wst.validation.validationbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>files/img_yogita_sing.png</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Downloads/img_yogita_sing.png</locationURI>
+		</link>
+		<link>
+			<name>files/yogita_icon.jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Downloads/yogita_icon.jpg</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
